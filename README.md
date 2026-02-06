@@ -1,2 +1,12 @@
 # FirstReport
 Repo de iniciacion a Git
+# 🚀 Mi Primer Repositorio
+**Nombre:** Sara
+**Bootcamp:** Data Analyst  
+**Fecha:** Febrero 2026
+## 📋 Sobre este proyecto
+Este es mi primer repositorio en GitHub.  
+Estoy aprendiendo Git y GitHub desde cero.
+## 🎯 Lo que he aprendido hoy
+A crear un repositorio en GitHub.
+A pasar un repositorio de GitHub a una carpeta local.
